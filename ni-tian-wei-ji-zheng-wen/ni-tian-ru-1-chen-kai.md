@@ -1,13 +1,19 @@
 # 逆天入1--陈铠
 
-## 逆天数据一览：
+## 总起：
 
 <details>
 
-<summary>nttest</summary>
+<summary>逆天数据一览</summary>
 
-zrwiki.top updata(last) — 7.5 (chixu)
+罪人堂目前持续讨论中
 
-tieba(for him) — 13
+他霍霍的贴吧（~~14-3~~）11（该人以下位置三个贴吧）
+
+目前因不满直呼他大名的：4-5
+
+反对他的贴吧：2
+
+部分内容来自罪人堂7月13号的更新版本。
 
 </details>
