@@ -1,8 +1,9 @@
 # 逆天维基-主页
 
 ![Github stars](https://img.shields.io/github/stars/xia865/ntwiki.svg)
+![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)
 
-## ![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)逆天维基-主页
+## 逆天维基-主页
 
 欢迎来到**逆天维基**
 
