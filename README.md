@@ -1,4 +1,4 @@
-![Github stars](https://img.shields.io/github/stars/用户名/仓库名.svg)
+![Github stars](https://img.shields.io/github/stars/xia865/ntwiki.svg)
 # 逆天维基-主页
 
 欢迎来到**逆天维基**
