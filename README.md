@@ -37,4 +37,8 @@
 
 #### 加入：
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://in.fanbook.cn/H5H9rF3a">fanbook</a></td><td><a href=".gitbook/assets/OIP-C.webp">OIP-C.webp</a></td></tr><tr><td><a href="https://pd.qq.com/s/dr47y0aps">腾讯频道</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://in.fanbook.cn/H5H9rF3a">fanbook</a></td><td><a href=".gitbook/assets/OIP-C.webp">OIP-C.webp</a></td></tr><tr><td><a href="https://pd.qq.com/s/dr47y0aps">腾讯频道</a></td><td><a href=".gitbook/assets/屏幕截图 2025-07-26 095235.png">屏幕截图 2025-07-26 095235.png</a></td></tr></tbody></table>
+
+### 或者去这些地方：
+
+* bot（[@ntwikitg\_bot](https://t.me/ntwikitg_bot)）
