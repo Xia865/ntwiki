@@ -96,7 +96,7 @@
 * **乐子百人斩** 震惊！本页面词条记录的乐子已经使至少100位以上高雅人员人神共愤！
 * **八方来朝** 本页面所描述的乐子本人已经招惹至少八个及以上的组织的殴打，让我们掌声欢迎当代慈禧太后！！
 
-### 目前公布的个人信息（摘录自罪人堂）
+## 目前公布的个人信息（摘录自罪人堂）
 
 {% tabs %}
 {% tab title="个人隐私篇" %}
@@ -301,9 +301,23 @@ github是开源社区，所以基本上能挂的东西都是开源的。至于�
 
 **新年版音效过吵，软件内公开挂自己收款码，软件内有安装360等病毒软件**
 
+<figure><img src="../.gitbook/assets/屏幕截图 2025-07-26 230610.png" alt=""><figcaption></figcaption></figure>
+
+安装界面太~~**他妈的**~~丑
+
+<figure><img src="../.gitbook/assets/屏幕截图 2025-07-26 230826.png" alt=""><figcaption></figcaption></figure>
+
+**HTML**框架？？
+
+<figure><img src="../.gitbook/assets/屏幕截图 2025-07-26 230855.png" alt=""><figcaption></figcaption></figure>
+
+360你还真敢给我们装
+
+<figure><img src="../.gitbook/assets/屏幕截图 2025-07-26 230917.png" alt=""><figcaption></figcaption></figure>
+
 **评价：**&#x5C31;这个抄袭加病毒的产物你好意思给我挂收款码
 
-### 不尊重历史
+## 不尊重历史
 
 {% hint style="warning" %}
 本条目对于**小粉红**十分敏感，如果您是粉红请略过这些内容。
