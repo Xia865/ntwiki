@@ -1,7 +1,6 @@
 # 逆天维基-主页
 
-![Github stars](https://img.shields.io/github/stars/xia865/ntwiki.svg)
-![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)
+![Github stars](https://img.shields.io/github/stars/xia865/ntwiki.svg) ![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)
 
 ## 逆天维基-主页
 
@@ -38,4 +37,4 @@
 
 #### 加入：
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://in.fanbook.cn/H5H9rF3a">fanbook</a></td><td><a href=".gitbook/assets/OIP-C.webp">OIP-C.webp</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://in.fanbook.cn/H5H9rF3a">fanbook</a></td><td><a href=".gitbook/assets/OIP-C.webp">OIP-C.webp</a></td></tr><tr><td><a href="https://pd.qq.com/s/dr47y0aps">腾讯频道</a></td><td></td></tr></tbody></table>
