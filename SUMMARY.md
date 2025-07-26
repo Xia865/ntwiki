@@ -8,4 +8,4 @@
 
 ## 逆天维基-正文
 
-* [Page 1](ni-tian-wei-ji-zheng-wen/page-1.md)
+* [逆天入1--陈铠](ni-tian-wei-ji-zheng-wen/ni-tian-ru-1-chen-kai.md)
