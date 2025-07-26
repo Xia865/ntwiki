@@ -345,3 +345,20 @@ github是开源社区，所以基本上能挂的东西都是开源的。至于�
 这个本人就不多赘述了，南山引用了我一个视频，结果被这个人在评论区底下留言：“能不能不要给圈子招黑”
 
 这里我就不多说了，自己一个招黑战神你去说别人
+
+{% hint style="warning" %}
+我不是南山之友
+{% endhint %}
+
+## 不回关=逆天
+
+<figure><img src="../.gitbook/assets/IMG_20250720_161059.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/IMG_20250720_161147.jpg" alt=""><figcaption></figcaption></figure>
+
+你就看看你那脑残至极的发言吧
+
+人家回关是情分不回关是本分
+
+你踩了别人的雷点还要辱骂人家
+
