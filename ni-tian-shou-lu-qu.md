@@ -4,7 +4,10 @@
 
 <summary>本区数据</summary>
 
-## 距离上一次提交:
-![Gitea Last Commit](https://img.shields.io/gitea/last-commit/xia865/ntwiki)
+![GitHub last commit](https://img.shields.io/github/距离上一次提交:/xia865/ntwiki)
+
+![GitHub repo file or directory count](https://img.shields.io/github/总共记录的逆天人总数(-2):/xia865/ntwiki)
+
+
 
 </details>
