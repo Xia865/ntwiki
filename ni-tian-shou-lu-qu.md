@@ -4,8 +4,7 @@
 
 <summary>本区数据</summary>
 
-
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/xia865/ntwiki)
+## 距离上一次提交:
+![Gitea Last Commit](https://img.shields.io/gitea/last-commit/:xia865/:ntwiki)
 
 </details>
