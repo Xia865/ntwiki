@@ -375,3 +375,22 @@ github是开源社区，所以基本上能挂的东西都是开源的。至于�
 <a href="ni-tian-ru-1-chen-kai.md#bu-hui-guan-ni-tian" class="button primary" data-icon="face-flushed">感觉和这个对上了hhh</a>
 
 ## 贴吧逆天言论 — ~~有那么一点黄~~
+
+{% hint style="info" %}
+**免责声明：**
+
+以下图片所示的言论因为过于逆天而打码，想看原版请去百度贴吧。
+
+我们并不会因为这个死妈窝囊废而让这个git book变成18-禁区
+{% endhint %}
+
+{% hint style="warning" %}
+请保护好你的眼睛和大脑，我们不对污染大脑的行为负责。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/F9026AB3A70ADABB24E7A11632B377E1.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_2025_0722_210620.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_2025_0722_211245.png" alt=""><figcaption></figcaption></figure>
+
