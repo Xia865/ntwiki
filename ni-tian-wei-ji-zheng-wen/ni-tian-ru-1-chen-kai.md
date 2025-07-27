@@ -362,3 +362,16 @@ github是开源社区，所以基本上能挂的东西都是开源的。至于�
 
 你踩了别人的雷点还要辱骂人家
 
+## 罪人堂爆料 — 抹黑公安
+
+<figure><img src="../.gitbook/assets/CK_抹黑公安.png" alt=""><figcaption></figcaption></figure>
+
+666，我知道公安机关对我们的身份信息了如指掌，不过你之前袭警以后再发这个，**谁能确定你不是在抹黑公安呢**？
+
+## 兽圈公愤（记载自罪人堂）
+
+> 据了解：陈铠的大名在全广东的福瑞圈已经臭名远扬，还得罪过来自上海的福瑞控，骂他们是恶俗，在揭阳当地的福瑞联谊会，其主办方已将陈铠拉黑，入场过程中管理员只要认出是陈铠就会将其赶走不得入内。
+
+<a href="ni-tian-ru-1-chen-kai.md#bu-hui-guan-ni-tian" class="button primary" data-icon="face-flushed">感觉和这个对上了hhh</a>
+
+## 贴吧逆天言论 — ~~有那么一点黄~~
