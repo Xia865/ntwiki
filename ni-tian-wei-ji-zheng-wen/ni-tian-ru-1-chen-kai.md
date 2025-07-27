@@ -419,3 +419,25 @@ github是开源社区，所以基本上能挂的东西都是开源的。至于�
 **很多二创者都会声明这个角色属于被二创的企业（比如说宝塔面板的兽化形象）**
 
 ### 这种行为引起的舆论：
+
+反正很不好。
+
+<div><figure><img src="../.gitbook/assets/Screenshot_20250724_075549.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_2025_0724_075448.png" alt=""><figcaption></figcaption></figure></div>
+
+也只能说是霍霍贴吧高手了吧（图中蓝云账号为傀儡账号）
+
+## 双标高手
+
+{% hint style="danger" %}
+\= 廉洁、自由对标社会主义核心价值观
+{% endhint %}
+
+***
+
+## 总结：
+
+自己拉倒不行还说别人
+
+自己逆天的不行还怪别人
+
+这种人那么爱找事儿不如别活了。
