@@ -394,3 +394,28 @@ github是开源社区，所以基本上能挂的东西都是开源的。至于�
 
 <figure><img src="../.gitbook/assets/Screenshot_2025_0722_211245.png" alt=""><figcaption></figcaption></figure>
 
+（我总感觉在放这些我的这个wiki会完犊子）
+
+## 说Windows 10/11你还不高兴了
+
+<div><figure><img src="../.gitbook/assets/Screenshot_20250722_213517.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_20250722_213522.jpg" alt=""><figcaption></figcaption></figure></div>
+
+话说别人建议他们升级新系统有什么事？ Windows 8.1系统驱动支持少的要死
+
+## 恶意改贴吧头像
+
+### about：
+
+<figure><img src="../.gitbook/assets/139012295B8384982DCBED2FB479C37E.jpg" alt=""><figcaption></figcaption></figure>
+
+我们这里知道你是希望兽圈更加多元化，**但你这种行为纯粹是给圈子招黑**
+
+**首先设计的配色过多难看的要死就算了，其次你还得把它和Windows 8.1和塞班扯上关系**
+
+我这里尊重为一些东西进行二创的人，毕竟Linux有被二创过，微软官方也是做出了Win7娘这个角色。
+
+**不过你把它说成一个自设就不对了喂！！！！！！**
+
+**很多二创者都会声明这个角色属于被二创的企业（比如说宝塔面板的兽化形象）**
+
+### 这种行为引起的舆论：
