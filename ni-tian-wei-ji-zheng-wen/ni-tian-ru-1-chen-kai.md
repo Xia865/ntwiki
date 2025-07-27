@@ -429,8 +429,14 @@ github是开源社区，所以基本上能挂的东西都是开源的。至于�
 ## 双标高手
 
 {% hint style="danger" %}
-\= 廉洁、自由对标社会主义核心价值观
+廉洁、自由对标社会主义核心价值观
+
+品客注意！！！
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot_2025_0721_072110.png" alt=""><figcaption></figcaption></figure>
+
+强行绑定这个事儿对我来说比较孬，毕竟这个不符合民众的心理。
 
 ***
 
