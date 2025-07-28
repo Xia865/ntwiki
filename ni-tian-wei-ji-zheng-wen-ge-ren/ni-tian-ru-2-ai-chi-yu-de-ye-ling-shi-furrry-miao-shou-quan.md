@@ -81,3 +81,19 @@
 未满18岁都开不了Binance（就是币安）好吧
 
 这个的话我也和一些网友一起吃了下瓜（为保护隐私对身份进行打码处理）
+
+<div><figure><img src="../.gitbook/assets/屏幕截图 2025-07-28 220501.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/屏幕截图 2025-07-28 220512.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/屏幕截图 2025-07-28 220521.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/屏幕截图 2025-07-28 220531.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/屏幕截图 2025-07-28 220540.png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/屏幕截图 2025-07-28 220600.png" alt=""><figcaption></figcaption></figure>
+
+**希望这最后一句能一语惊醒梦中人，没钱约头像当什么大佬**
+
+**只能说是妄想症犯了**
+
+## 不是爱好者？开无赦！
+
+<div><figure><img src="../.gitbook/assets/Screenshot_2025_0715_093449.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_20250715_093440.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_20250715_093419.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_20250715_093413.jpg" alt=""><figcaption></figcaption></figure></div>
+
+不是，**没记错的话**果糖好像并没有为我们圈子招黑
+
+只能说是你认为自己是这个圈子的主宰这种妄想症太强烈了，多吃点药缓缓吧
