@@ -75,3 +75,9 @@
 <figure><img src="../.gitbook/assets/屏幕截图 2025-07-28 220231.png" alt=""><figcaption></figcaption></figure>
 
 不就是进入几个telegram群组吗
+
+到时黑客一张口说要交泰达币破防的肯定是他
+
+未满18岁都开不了Binance（就是币安）好吧
+
+这个的话我也和一些网友一起吃了下瓜（为保护隐私对身份进行打码处理）
