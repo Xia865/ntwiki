@@ -10,6 +10,7 @@
 ## 逆天维基-正文（个人）
 
 * [逆天入1--陈铠](ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md)
+* [逆天入2 -- “爱吃鱼的夜凌是 furrry喵·兽圈”](ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-2-ai-chi-yu-de-ye-ling-shi-furrry-miao-shou-quan.md)
 
 ## 逆天维基-正文（组织）
 
