@@ -5,7 +5,7 @@ icon: tags
 
 # 危险Tags&总览
 
-危险标签规则：
+## 危险个人标签
 
 > 品客注意：对于小粉红来说十分敏感，建议小粉红不要观看。
 >
@@ -37,7 +37,7 @@ icon: tags
 但如果你哗众取宠的话，不好就别怪我们不好意思了
 {% endhint %}
 
-## 通过Tags查找…
+### 通过Tags查找…
 
 <details>
 
@@ -126,3 +126,11 @@ icon: tags
 [ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md "mention")
 
 </details>
+
+## 危险团体标签：
+
+> 大清复活：至少有一到两个管理层人员程度与慈禧太后相当
+>
+> 集中营：当地管理甚是严格，部分情况极端（要求出具一些个人信息）
+>
+> \=
