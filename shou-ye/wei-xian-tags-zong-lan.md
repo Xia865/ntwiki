@@ -16,6 +16,18 @@ icon: tags
 > 简直就是亵渎！：对于几个圈子造成了极其恶劣的影响
 >
 > 负能量大师：发言过于负能量
+>
+> 合伙做案：该入身后可能是一个团体，谨慎行动！
+>
+> xxs：对方年龄过低
+>
+> 灰产人士：地方常年致力于开户、轰炸等行为
+>
+> 打手：这个人在线下的能力挺高，谨慎线下真实！
+>
+> 那咋了：死不承认错误
+>
+> 大脑完全不发育：年龄与所作所为十分不符合。
 
 {% hint style="warning" %}
 ## 免责声明
@@ -61,7 +73,55 @@ icon: tags
 
 <details>
 
-<summary></summary>
+<summary>负能量大师</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>合伙做案</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>xxs</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>灰产人士</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>打手</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>那咋了</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>大脑完全不发育</summary>
 
 
 
