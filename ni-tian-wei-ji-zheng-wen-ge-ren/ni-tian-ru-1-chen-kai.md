@@ -42,7 +42,7 @@ coverY: 0
 
 1. 该入发言过于脑残，谨慎观看！
 2. 该入具有"恶人先告状"行为，建议一步到位直接开户加轰炸。
-3. [危险Tags](../shou-ye/wei-xian-tags-zong-lan.md)：品客注意 保护大脑 极端人士 简直就是亵渎 大脑完全不发育
+3. [危险Tags](../shou-ye/wei-xian-tags-zong-lan.md)：[品客注意](../shou-ye/wei-xian-tags-zong-lan.md#pin-ke-zhu-yi) [保护大脑](../shou-ye/wei-xian-tags-zong-lan.md#bao-hu-da-nao) [极端人士](../shou-ye/wei-xian-tags-zong-lan.md#ji-duan-ren-shi) [简直就是亵渎](../shou-ye/wei-xian-tags-zong-lan.md#jian-zhi-jiu-shi-xie-du) [大脑完全不发育](../shou-ye/wei-xian-tags-zong-lan.md#da-nao-wan-quan-bu-fa-yu)
 {% endhint %}
 
 ### 阿铠逆天语录
