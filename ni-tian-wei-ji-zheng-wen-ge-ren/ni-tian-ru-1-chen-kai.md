@@ -23,8 +23,6 @@ coverY: 0
 
 </details>
 
-## 注意事项：
-
 {% hint style="success" %}
 ## 准备：
 
