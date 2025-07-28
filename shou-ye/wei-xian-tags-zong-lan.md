@@ -29,14 +29,6 @@ icon: tags
 >
 > 大脑完全不发育：年龄与所作所为十分不符合。
 
-{% hint style="warning" %}
-## 免责声明
-
-为尊重抑郁症患者，这里不会挂一些已经确诊的抑郁症患者。
-
-但如果你哗众取宠的话，不好就别怪我们不好意思了
-{% endhint %}
-
 ### 通过Tags查找…
 
 <details>
@@ -143,8 +135,90 @@ icon: tags
 >
 > 网上小缅北：该组织有诈骗行为
 >
-> 营销号培养：该组织出现了一些传销行为
+> 营销号培养：该组织出现了一些造谣行为
 >
 > 社工库free：该组织内至少公开过一次个人隐私信息（包括成员、其他人）
 >
 > 我爱挂人：这个组织时常出现挂人行为
+
+### 通过Tags查找…
+
+<details>
+
+<summary>大清复活</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>集中营</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>此群只应天上有</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>人均弱智</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>传销窝点</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>时政解读所</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>网上小缅北</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>营销号培养</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>社工库free</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>我爱挂人</summary>
+
+
+
+</details>
