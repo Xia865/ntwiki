@@ -43,7 +43,7 @@ icon: tags
 
 <summary>品客注意</summary>
 
-[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen/ni-tian-ru-1-chen-kai.md "mention")
+[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md "mention")
 
 </details>
 
@@ -51,7 +51,7 @@ icon: tags
 
 <summary>保护大脑</summary>
 
-[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen/ni-tian-ru-1-chen-kai.md "mention")
+[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md "mention")
 
 </details>
 
@@ -59,7 +59,7 @@ icon: tags
 
 <summary>极端人士</summary>
 
-[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen/ni-tian-ru-1-chen-kai.md "mention")
+[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md "mention")
 
 </details>
 
@@ -67,7 +67,7 @@ icon: tags
 
 <summary>简直就是亵渎</summary>
 
-[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen/ni-tian-ru-1-chen-kai.md "mention")
+[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md "mention")
 
 </details>
 
@@ -123,6 +123,6 @@ icon: tags
 
 <summary>大脑完全不发育</summary>
 
-[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen/ni-tian-ru-1-chen-kai.md "mention")
+[ni-tian-ru-1-chen-kai.md](../ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md "mention")
 
 </details>

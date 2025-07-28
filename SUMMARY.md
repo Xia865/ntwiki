@@ -7,6 +7,10 @@
 * [规则](xin-ren-qing-du/gui-ze.md)
 * [危险Tags&总览](shou-ye/wei-xian-tags-zong-lan.md)
 
-## 逆天维基-正文
+## 逆天维基-正文（个人）
 
-* [逆天入1--陈铠](ni-tian-wei-ji-zheng-wen/ni-tian-ru-1-chen-kai.md)
+* [逆天入1--陈铠](ni-tian-wei-ji-zheng-wen-ge-ren/ni-tian-ru-1-chen-kai.md)
+
+## 逆天维基-正文（组织）
+
+* [万物村](ni-tian-wei-ji-zheng-wen-zu-zhi/wan-wu-cun.md)
